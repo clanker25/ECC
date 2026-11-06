@@ -1,0 +1,6 @@
+{
+  "name": "event-stats",
+  "private": false,
+  "type": "commonjs",
+  "scripts": { "test": "node --test test/" }
+}
