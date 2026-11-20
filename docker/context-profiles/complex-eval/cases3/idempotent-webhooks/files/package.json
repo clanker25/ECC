@@ -1,0 +1,6 @@
+{
+  "name": "webhook-receiver",
+  "private": false,
+  "type": "commonjs",
+  "scripts": { "test": "node --test test/*.test.js" }
+}
